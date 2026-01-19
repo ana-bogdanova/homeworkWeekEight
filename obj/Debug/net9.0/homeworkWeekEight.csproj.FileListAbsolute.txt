@@ -1,0 +1,15 @@
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/bin/Debug/net9.0/homeworkWeekEight
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/bin/Debug/net9.0/homeworkWeekEight.deps.json
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/bin/Debug/net9.0/homeworkWeekEight.runtimeconfig.json
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/bin/Debug/net9.0/homeworkWeekEight.dll
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/bin/Debug/net9.0/homeworkWeekEight.pdb
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/homeworkWeekEight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/homeworkWeekEight.AssemblyInfoInputs.cache
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/homeworkWeekEight.AssemblyInfo.cs
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/homeworkWeekEight.csproj.CoreCompileInputs.cache
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/homeworkWeekEight.sourcelink.json
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/homeworkWeekEight.dll
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/refint/homeworkWeekEight.dll
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/homeworkWeekEight.pdb
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/homeworkWeekEight.genruntimeconfig.cache
+/Users/anabogdanova/Desktop/CodeYou/homeworkWeekEight/obj/Debug/net9.0/ref/homeworkWeekEight.dll
